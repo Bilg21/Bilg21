@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **s** -->
+- 🔭 I’m currently working on **writing interpreter in Go** 
 
-- 🌱 I’m currently learning **Obsidian note taker**
+- 🌱 I’m currently learning how to take better notes with **Obsidian note taker**
 
 <!-- - 👯 I’m looking to collaborate on **s** -->
 
